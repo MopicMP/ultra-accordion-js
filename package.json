@@ -1,0 +1,25 @@
+{
+  "name": "ultra-accordion-js",
+  "version": "1.0.0",
+  "description": "Ultra accordion/collapsible sections",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "accordion",
+    "js",
+    "tool",
+    "ultra",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raccoonette/ultra-accordion-js.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
